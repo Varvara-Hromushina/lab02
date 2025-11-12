@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+// Main function that asks for user name and prints greeting
 int main() {
 std::string name;
 std::cout << "Enter your name: ";
